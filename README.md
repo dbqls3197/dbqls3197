@@ -1,10 +1,4 @@
 # <div align="center">파이썬을 기반으로 개발 공부를 하고 있는 손유빈입니다.<img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/></div>
-<div align="center">
-  <img src="https://www.spriters-resource.com/resources/sheet_icons/198/200858.gif?updated=1688787145" alt="도트 커비 1" width="100"/>
-  <img src="https://www.spriters-resource.com/resources/sheet_icons/195/197726.gif?updated=1684173595" alt="도트 커비 2" width="100"/>
-  <img src="https://i.pinimg.com/736x/ae/72/75/ae72757d09992245b14e08b6666f8fa4.jpg" alt="도트 커비 3" width="100"/>
-  <img src="https://www.spriters-resource.com/resources/sheet_icons/190/192991.gif?updated=1677970951" alt="도트 커비 추가" width="100"/>
-</div>
 
 
 ## 🌿 기술 스택
