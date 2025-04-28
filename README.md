@@ -59,7 +59,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/dbqls3197/individual_project">
-          <img src="https://img.shields.io/badge/individual_project-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="individual_project"/>
+          <img src="https://img.shields.io/badge/electronic business card-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="individual_project"/>
         </a>
       </td>
     </tr>
