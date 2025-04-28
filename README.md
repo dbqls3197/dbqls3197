@@ -1,4 +1,4 @@
-# <div align="center">파이썬을 기반으로 개발 공부를 하고 있는 손유빈입니다.<img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/></div>
+# <div align="center">파이썬을 기반으로 개발 공부를 하고 있는 손유빈입니다.</div>
 
 
 ## 🌿 기술 스택
