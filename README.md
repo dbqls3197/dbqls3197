@@ -53,7 +53,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/gibupanda/smart_city">
+        <a href="https://github.com/dbqls3197/smart_city">
           <img src="https://img.shields.io/badge/smart_city-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="smart_city"/>
         </a>
       </td>
