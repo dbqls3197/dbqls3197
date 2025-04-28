@@ -53,17 +53,12 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/gibupanda/LIVON_Project">
-          <img src="https://img.shields.io/badge/LIVON_Project-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="LIVON_Project"/>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://github.com/gibupanda/smart_city">
           <img src="https://img.shields.io/badge/smart_city-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="smart_city"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/gibupanda/today_talk">
+        <a href="https://github.com/dbqls3197/individual_project">
           <img src="https://img.shields.io/badge/today_talk-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="today_talk"/>
         </a>
       </td>
