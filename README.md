@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://www.spriters-resource.com/resources/sheet_icons/198/200858.gif?updated=1688787145" alt="도트 커비 1" width="100"/>
   <img src="https://www.spriters-resource.com/resources/sheet_icons/195/197726.gif?updated=1684173595" alt="도트 커비 2" width="100"/>
-  <img src="https://www.spriters-resource.com/resources/sheet_icons/238/241062.gif?updated=1728837189" alt="도트 커비 3" width="100"/>
+  <img src="https://kr.pinterest.com/pin/299911656456027351/" alt="도트 커비 3" width="100"/>
   <img src="https://www.spriters-resource.com/resources/sheet_icons/190/192991.gif?updated=1677970951" alt="도트 커비 추가" width="100"/>
 </div>
 
