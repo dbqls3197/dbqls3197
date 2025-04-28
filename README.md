@@ -74,7 +74,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일"/>
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="네이버메일"/>
         <br>
         <code>dbqls3197@naver.com</code>
       </td>
