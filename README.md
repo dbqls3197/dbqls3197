@@ -1,4 +1,4 @@
-# <div align="center">파이썬을 기반으로 개발 공부를 하고 있는 안기부입니다.<img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/></div>
+# <div align="center">파이썬을 기반으로 개발 공부를 하고 있는 손유빈입니다.<img src="https://www.spriters-resource.com/resources/sheet_icons/143/146377.png?updated=1609165515" alt="도트 커비 PNG" width="100"/></div>
 <div align="center">
   <img src="https://www.spriters-resource.com/resources/sheet_icons/198/200858.gif?updated=1688787145" alt="도트 커비 1" width="100"/>
   <img src="https://www.spriters-resource.com/resources/sheet_icons/195/197726.gif?updated=1684173595" alt="도트 커비 2" width="100"/>
@@ -92,12 +92,7 @@
       <td align="center">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일"/>
         <br>
-        <code>facecom2000@gmail.com</code>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="디스코드"/>
-        <br>
-        <code>facecom200</code>
+        <code>dbqls3197@naver.com</code>
       </td>
       <td align="center">
         <a href="https://github.com/gibupanda">
