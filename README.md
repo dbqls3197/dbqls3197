@@ -1,44 +1,59 @@
 # <div align="center">파이썬을 기반으로 개발을 하고 있는 손유빈입니다.</div>
 
 
-## 🌿 기술 스택
+## 🌿 Skills and Tools
 
-### 💻 프로그래밍 언어
+### 💻 프로그래밍 언어  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-
-### 🌐 웹 기술
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat&logo=javascript&logoColor=white)
-
-### 🧩 백엔드
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
-### 📊 데이터 분석 / AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+---
+
+### 📊 데이터 분석 / 처리  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-42a5f5?style=flat&logo=python&logoColor=white)
+
+---
+
+### 🤖 AI / ML  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-795548?style=flat)
+![ANN](https://img.shields.io/badge/-ANN-6A1B9A?style=flat)
+![RNN](https://img.shields.io/badge/-RNN-283593?style=flat)
 ![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 
-### 🔧 개발 도구
+---
+
+### 🔧 인프라 / DevOps  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-
-### 💾 서버 / 인프라
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux 서버 관리](https://img.shields.io/badge/-Linux%20서버%20관리-CC342D?style=flat&logo=linux&logoColor=white)
+![네트워크 아키텍처 설계](https://img.shields.io/badge/-네트워크%20아키텍처%20설계-607D8B?style=flat&logo=cisco&logoColor=white)
 
-### 🔍 기타 도구
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=firefox&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/-Requests-2D8CFF?style=flat&logo=python&logoColor=white)
-![API](https://img.shields.io/badge/-API-FFB300?style=flat&logo=fastapi&logoColor=white)
-![Mantis](https://img.shields.io/badge/-Mantis-E87C09?style=flat&logo=bugatti&logoColor=white)
+---
+
+### 🌐 웹 / 앱 개발  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+---
+
+### 🧪 IoT  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32-CAM](https://img.shields.io/badge/-ESP32--CAM-005F9E?style=flat&logo=espressif&logoColor=white)
+![센서 데이터 수집 및 분석](https://img.shields.io/badge/-센서%20데이터%20수집%20및%20분석-455A64?style=flat&logo=sensu&logoColor=white)
+
 <br>
 
 ## 🎋 프로젝트
