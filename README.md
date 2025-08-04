@@ -55,6 +55,16 @@
           <img src="https://img.shields.io/badge/business card-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="individual_project"/>
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/ANGIBU/songil">
+          <img src="https://img.shields.io/badge/smart_city-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="songil"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/dbqls3197/Cargo_AI">
+          <img src="https://img.shields.io/badge/smart_city-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Cargo_AI"/>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
