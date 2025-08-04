@@ -42,32 +42,34 @@
 <br>
 
 ## 🎋 프로젝트
+
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/dbqls3197/smart_city">
-          <img src="https://img.shields.io/badge/smart_city-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="smart_city"/>
+          <img src="https://img.shields.io/badge/Smart_City-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Smart City Project"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/dbqls3197/individual_project">
-          <img src="https://img.shields.io/badge/business card-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="individual_project"/>
+          <img src="https://img.shields.io/badge/Business_Card-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Business Card Project"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/ANGIBU/songil">
-          <img src="https://img.shields.io/badge/songil?style=for-the-badge&logo=github&logoColor=white" alt="songil"/>
+          <img src="https://img.shields.io/badge/Missing_Person_AI-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Missing Person AI Project"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/dbqls3197/Cargo_AI">
-          <img src="https://img.shields.io/badge/Cargo_AI?style=for-the-badge&logo=github&logoColor=white" alt="Cargo_AI"/>
+          <img src="https://img.shields.io/badge/Cargo_Matching_AI-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Cargo Matching AI Project"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 <br>
 
 
