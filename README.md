@@ -54,6 +54,7 @@
 ![ESP32-CAM](https://img.shields.io/badge/-ESP32--CAM-005F9E?style=flat&logo=espressif&logoColor=white)
 ![센서 데이터 수집 및 분석](https://img.shields.io/badge/-센서%20데이터%20수집%20및%20분석-455A64?style=flat&logo=sensu&logoColor=white)
 
+---
 <br>
 
 ## 🎋 프로젝트
