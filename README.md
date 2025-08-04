@@ -46,33 +46,34 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200">
+      <td align="center" valign="top" width="200">
         <a href="https://github.com/dbqls3197/smart_city">
           <img src="https://img.shields.io/badge/SMART_CITY-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Smart City"/>
         </a><br>
-        <sub>조도 센서 기반 스마트 가로등 제어</sub>
+        <sub>조도 센서 기반<br>스마트 가로등 제어</sub>
       </td>
-      <td align="center" width="200">
+      <td align="center" valign="top" width="200">
         <a href="https://github.com/dbqls3197/individual_project">
           <img src="https://img.shields.io/badge/BUSINESS_CARD-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Business Card"/>
         </a><br>
-        <sub>전자명함 생성 및 사용자 관리 시스템</sub>
+        <sub>전자명함 생성 및<br>사용자 관리 시스템</sub>
       </td>
-      <td align="center" width="200">
+      <td align="center" valign="top" width="200">
         <a href="https://github.com/ANGIBU/songil">
           <img src="https://img.shields.io/badge/MISSING_PERSON_AI-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Missing Person AI"/>
         </a><br>
-        <sub>실종자 위험도 분류 및 제보 수집 플랫폼</sub>
+        <sub>실종자 위험도 분류 및<br>제보 수집 플랫폼</sub>
       </td>
-      <td align="center" width="200">
+      <td align="center" valign="top" width="200">
         <a href="https://github.com/dbqls3197/Cargo_AI">
           <img src="https://img.shields.io/badge/CARGO_MATCHING_AI-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Cargo Matching AI"/>
         </a><br>
-        <sub>AI 기반 화물-기사 매칭 및 결제 연동</sub>
+        <sub>AI 기반 화물-기사<br>매칭 및 결제 연동</sub>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <br>
