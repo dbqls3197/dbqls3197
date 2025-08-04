@@ -6,7 +6,6 @@
 ### 💻 프로그래밍 언어
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white)
 
 ### 🌐 웹 기술
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
